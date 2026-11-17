@@ -1,0 +1,5 @@
+outputs/
+*/taxonomy_cache.csv
+taxonomy_cache.csv
+__pycache__/
+*.pyc
